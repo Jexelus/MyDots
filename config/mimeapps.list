@@ -1,0 +1,7 @@
+[Added Associations]
+x-scheme-handler/tg=org.telegram.desktop.desktop;
+
+[Default Applications]
+x-scheme-handler/codium=codium.desktop;
+x-scheme-handler/tg=org.telegram.desktop.desktop;
+x-scheme-handler/vscodium=codium.desktop;
